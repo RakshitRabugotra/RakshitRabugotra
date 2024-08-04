@@ -16,8 +16,10 @@ I am a passionate web developer with a strong background in React.js and Next.js
 
 ## 📈 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakshitRabugotra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitRabugotra&layout=compact&theme=radical)
+<div style="display: flex; flex-direction:row; width: 100%; gap: 6rem; ">
+  <a><img src="https://github-readme-stats.vercel.app/api?username=RakshitRabugotra&show_icons=true&theme=radical" alt="GitHub Stats"/></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitRabugotra&layout=compact&theme=radical" alt="Top Languages"/></a>
+</div>
 
 ## 📚 Projects
 
