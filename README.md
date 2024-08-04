@@ -1,6 +1,6 @@
 # Hi there, I'm Rakshit Rabugotra! 👋
 
-![Rakshit Rabugotra Banner](https://media.licdn.com/dms/image/v2/D4D16AQEz0bezoY7szg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683960416276?e=1728518400&v=beta&t=IX0w70WSVasLAoSI5jDu63DMkdvJcf9V_O1WcT9bWNU))
+![Rakshit Rabugotra Banner](https://media.licdn.com/dms/image/v2/D4D16AQEz0bezoY7szg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683960416276?e=1728518400&v=beta&t=IX0w70WSVasLAoSI5jDu63DMkdvJcf9V_O1WcT9bWNU)
 
 ## 🚀 About Me
 
