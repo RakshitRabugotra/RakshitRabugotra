@@ -1,6 +1,6 @@
 # Hi there, I'm Rakshit Rabugotra! 👋
 
-![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
+![Rakshit Rabugotra Banner](https://media.licdn.com/dms/image/v2/D4D16AQEz0bezoY7szg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683960416276?e=1728518400&v=beta&t=IX0w70WSVasLAoSI5jDu63DMkdvJcf9V_O1WcT9bWNU))
 
 ## 🚀 About Me
 
@@ -31,9 +31,8 @@ I am a passionate web developer with a strong background in React.js and Next.js
 
 ## 💬 Let's Connect!
 
-- **LinkedIn:** [Rakshit Rabugotra](https://www.linkedin.com/in/rakshit-rabugotra/)
-- **Twitter:** [@RakshitRabugotra](https://twitter.com/RakshitRabugotra)
-- **Email:** rakshit@example.com *(replace with your email)*
+- **LinkedIn:** [Rakshit Rabugotra](https://www.linkedin.com/in/rakshit-rabugotra-a29b5821a/)
+- **Email:** rakshit.rabugotra000@gmail.com
 
 ---
 
