@@ -25,7 +25,7 @@ I am a passionate web developer with a strong background in React.js and Next.js
 
 ### 🌟 Highlighted Projects
 
-- **[Udaan](https://github.com/RakshitRabugotra/udaan):** An expense-tracking application built with Next.js, TailwindCSS, and Supabase. Helps users store and get insights about their expenses.
+- **[Udaan](https://github.com/RakshitRabugotra/udaan):** A safety app focused on Women Safety and welfare built with React Native. Helps users to help their journey using the `Safe Route` feature, and other useful in-app options.
 - **[Solarwise](https://github.com/RakshitRabugotra/solarwise):** .
 - **[Gardener-Plus](https://github.com/RakshitRabugotra/gardener-plus):** A React Native application for plant care, integrating Supabase and Gemini API.
 
